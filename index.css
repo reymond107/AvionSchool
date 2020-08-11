@@ -1,0 +1,14 @@
+.class{
+    color: lightseagreen;
+}
+p {
+    color: darkgreen;
+}
+#hp {
+    color: darkslategray;
+}
+#body-class {
+    font-style: Verdana;
+    padding: 100px;
+    margin: 50px;
+}
