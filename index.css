@@ -8,7 +8,7 @@ p {
     color: darkslategray;
 }
 #body-class {
-    font-style: Verdana;
+    font-family: 'Courier New', Courier, monospace;
     padding: 100px;
     margin: 50px;
 }
